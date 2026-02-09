@@ -1,0 +1,7 @@
+{
+	"C_Cpp.default.enableConfigurationSquiggles": false,
+	"C_Cpp.default.includePath": [
+		"'/Users/bradleyharrison/Desktop/coding for fun/CustomMatPlot/include/include'"
+	],
+	"cmake.sourceDirectory": "/Users/bradleyharrison/Downloads/SimpleFFTTutorial/Source"
+}
