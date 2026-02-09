@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=SimpleFFTTutorial
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
@@ -226,6 +226,15 @@ Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/Users/bradleyharrison/Downloads/SimpleFFTTutorial/Source
+
+//Value Computed by CMake
+SimpleFFTTutorial_BINARY_DIR:STATIC=/Users/bradleyharrison/Downloads/SimpleFFTTutorial/build
+
+//Value Computed by CMake
+SimpleFFTTutorial_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+SimpleFFTTutorial_SOURCE_DIR:STATIC=/Users/bradleyharrison/Downloads/SimpleFFTTutorial/Source
 
 
 ########################
