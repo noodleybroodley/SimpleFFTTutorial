@@ -1,2 +1,35 @@
+Builds/
+
+# CMake
+build/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.xcworkspace
+*.xcodeproj/xcuserdata/
+
+# OS
 .DS_Store
-Builds
+Thumbs.db
+
+# Output
+dist/
+bin/
+lib/
