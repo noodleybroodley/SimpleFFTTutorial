@@ -16,7 +16,7 @@ public:
     //==============================================================================
     Application() = default;
 
-    const juce::String getApplicationName() override       { return "SimpleFFTTutorial"; }
+    const juce::String getApplicationName() override       { return "MangoChordDetector"; }
     const juce::String getApplicationVersion() override    { return "1.0.0"; }
 
     void initialise (const juce::String&) override
